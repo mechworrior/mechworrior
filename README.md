@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mechworrior&label=Profile%20views&color=0e75b6&style=flat" alt="mechworrior" /> </p>
 
-- 🌱 I’m currently learning **to use PyTorch, and Unity Engine**
+- 🌱 I’m currently learning **OpenCV, PyTorch, and Unity Engine**
 
 - 👯 I’m looking to collaborate on [tnrevolution](https://github.com/mechworrior/tnrevolution)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ni-tony-ym/](https://www.linkedin.com/in/ni-tony-ym/)
 
-- ⚡ Fun fact **I am very competitive about my Minesweeper times**
+- ⚡ Fun fact **I am very competitive about my Minesweeper times, current record for advanced: 76sec**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
