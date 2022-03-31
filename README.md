@@ -18,6 +18,11 @@
   <a href="https://www.linkedin.com/in/ni-tony-ym/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> 
   </a> 
+  <a href="https://www.linkedin.com/in/ni-tony-ym/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> 
+  </a> 
+  
+  https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
