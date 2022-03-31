@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ni.tony.ym@gmail.com**
 
-- 📄 Know about my experiences **check out my**[Linkedin Profile](https://www.linkedin.com/in/ni-tony-ym/)
+- 📄 Know about my experiences **check out my **[Linkedin Profile](https://www.linkedin.com/in/ni-tony-ym/)
 
 - ⚡ Fun fact **I am very competitive about my Minesweeper times, current record for advanced: 76sec**
 
