@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Ni</h1>
-<h3 align="center">Data-Scientist based in Tokyo, passionate about NLP, Deep Learning, and Math.</h3>
+<h3 align="center">Data-Scientist based in Tokyo, passionate about NLP, Time Series, and Math.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mechworrior&label=Profile%20views&color=0e75b6&style=flat" alt="mechworrior" /> </p>
 
