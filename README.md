@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences **check out my** [Linkedin Profile](https://www.linkedin.com/in/ni-tony-ym/)
 
-- ⚡ Fun fact **I am very competitive about my Minesweeper times, current record for advanced: 76sec**
+- ⚡ Fun fact **I am competitive about my Minesweeper times, current record for advanced: 76sec**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
