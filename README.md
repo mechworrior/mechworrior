@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mechworrior&label=Profile%20views&color=0e75b6&style=flat" alt="mechworrior" /> </p>
 
-- 🌱 I’m currently learning **OpenCV, PyTorch, and Unity Engine**
+- 🌱 I’m currently learning **Rust and Unity Engine**
 
 - 👯 I’m looking to collaborate on [tnrevolution](https://github.com/mechworrior/tnrevolution)
 
